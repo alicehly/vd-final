@@ -1,0 +1,53 @@
+.background-image {
+	background:url("https://cdn.pixabay.com/photo/2014/07/31/00/30/laundry-405878_1280.jpg");
+
+}
+
+header {
+	width:1270px;
+	height:500px;
+	
+}
+
+h1 {
+	text-align: center;
+	padding-top: 100px;
+	font-family: 'Abril Fatface';
+	color: white;
+	font-size: 34pt;
+
+}
+
+h3 {
+	text-align:center;
+	font-family: 'Abril Fatface';
+	color: white;
+}
+
+p{
+  font-family: 'Abril Fatface';
+  font-size:14pt;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.chart-one {
+	object-position: center;
+}
+
+.chart-two {
+	object-position: center;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 20pt;
+  font-family: 'Abril Fatface';
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+
+
